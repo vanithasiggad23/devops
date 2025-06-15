@@ -40,3 +40,4 @@ for guys in dinner:
     print(f"hello {guys} you must attend the dinner!!")
 count=len(dinner)
 print(count)
+print("this is the changes")
